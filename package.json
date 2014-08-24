@@ -1,6 +1,6 @@
 {
   "name": "sails-config-mongo-connection",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "sails-config plugin to create mongo connection",
   "main": "index.js",
   "dependencies": {},
