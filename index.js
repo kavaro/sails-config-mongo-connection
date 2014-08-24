@@ -3,7 +3,7 @@
  */
 
 module.exports = function(config) {
-    return config.plugin('connection', {
+    return config.plugin('connections', {
         modules: 'sails-mongo',
         configs: {
             development: {
