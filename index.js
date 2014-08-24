@@ -7,7 +7,7 @@ module.exports = function(config) {
         modules: 'sails-mongo',
         configs: {
             development: {
-                mongodb: {
+                mongo: {
                     adapter: 'sails-mongo',
                     host: 'localhost',
                     port: 27017
