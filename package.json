@@ -1,0 +1,25 @@
+{
+  "name": "sails-config-mongo-connection",
+  "version": "0.0.0",
+  "description": "sails-config plugin to create mongo connection",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavaro/sails-config-mongo-connection.git"
+  },
+  "keywords": [
+    "sails-config",
+    "mongo",
+    "connection"
+  ],
+  "author": "kavaro <karl.van.rompaey@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kavaro/sails-config-mongo-connection/issues"
+  }
+}
